@@ -136,3 +136,14 @@
 <p align="center" style="font-size: 14px;">
   Made with ❤️ by <strong>Said Amarire</strong> • 🇲🇦 Morocco
 </p>
+
+
+
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <strong>🦈 Pull Shark</strong> &nbsp;|&nbsp;
+  <strong>💡 Pair Extraordinaire</strong> &nbsp;|&nbsp;
+  <strong>🚀 YOLO Mode</strong>
+</p>
