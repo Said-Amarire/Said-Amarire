@@ -8,19 +8,16 @@
   
 
 
-
-
-<p align="center">
+<!-- Hero Section -->
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=40&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&repeat=true&width=800&lines=Hello,+I'm+Said+Amarire;Creative+Web+Developer;WordPress+%26+WooCommerce+Specialist;Let's+Build+Great+Websites" 
     alt="Typing SVG" 
-    style="width: 100%; max-width: 800px; height: auto;"
+    style="max-width: 800px; width: 100%; height: auto;"
   />
-</p>
+</div>
 
-
-
----
+<hr>
 
 <h2 align="center">✨ About Me</h2>
 
@@ -31,7 +28,7 @@
   🚀 Currently helping businesses worldwide launch and grow their online presence.  
 </p>
 
----
+<hr>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -48,9 +45,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968739.png" width="48" height="48" alt="Canva" style="border-radius: 8px; background:#00C4CC; padding: 6px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" style="border-radius: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" style="border-radius: 8px;" />
+</p>
 
-
----
+<hr>
 
 <h2 align="center">🚀 What I Build</h2>
 
@@ -63,12 +60,11 @@
   <li>🔹 SEO-friendly sites optimized for performance and speed</li>
 </ul>
 
----
+<hr>
 
 <h2 align="center">🌐 Find Me Online</h2>
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-
 
   <a href="https://www.linkedin.com/in/said-amarire/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Said_Amarire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101820&color=0A66C2&logoWidth=24" alt="LinkedIn" />
@@ -112,9 +108,7 @@
 
 </p>
 
-
-
----
+<hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -123,13 +117,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Said-Amarire&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Said-Amarire&style=flat&color=ff69b4&base=1500" alt="Profile views" />
 </p>
 
-
----
+<hr>
 
 <h2 align="center">📬 Contact Me</h2>
 
@@ -148,4 +140,3 @@
 <p align="center" style="font-size: 14px;">
   Made with ❤️ by <strong>Said Amarire</strong> • 🇲🇦 Morocco
 </p>
-
