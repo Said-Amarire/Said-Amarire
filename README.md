@@ -1,9 +1,10 @@
 <p align="center" style="padding-top: 40px;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=40&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&repeat=true&width=800&lines=Hello,+I'm+Said+Amarire;Creative+Web+Developer;WordPress+%26+WooCommerce+Specialist;Let's+Build+Great+Websites" 
-    alt="Typing SVG" 
-    style="width: 100%; max-width: 800px; height: auto; display:block;"
-  />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=40&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&repeat=true&width=800&lines=Hello,+I'm+Said+Amarire;Creative+Web+Developer;WordPress+%26+WooCommerce+Specialist;Let's+Build+Great+Websites" 
+  alt="Typing SVG" 
+  style="width: 100%; max-width: 800px; height: auto; display:block; transform: translateY(10px);"
+/>
+
 </p>
 
 
