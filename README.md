@@ -1,5 +1,14 @@
 <!-- Hero Section -->
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;       /* Full viewport height */
+  padding-top: 100px;      /* Space at the top to prevent clipping */
+  box-sizing: border-box;  /* Include padding in height */
+  width: 100%;
+">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=40&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&repeat=true&width=800&lines=Hello,+I'm+Said+Amarire;Creative+Web+Developer;WordPress+%26+WooCommerce+Specialist;Let's+Build+Great+Websites" 
     alt="Typing SVG" 
